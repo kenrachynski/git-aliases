@@ -77,6 +77,3 @@
 	# `git fixup COMMITISH` (for example, `git fixup HEAD`).
 	fixup	= commit --fixup
 
-	## Working with history
-	# Simple text-based commit graph: `git lol [BRANCHES|--all]`
-	lol	= log --graph --oneline --decorate
